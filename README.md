@@ -47,7 +47,7 @@ GitHub Actions    (optionnel) Re-génération automatique du dataset
 ## 📁 Structure du projet
 
 ```
-vroom-market-analytics/
+v-market-analytics/
 │
 ├── data/
 │   └── leads_raw.csv              # Dataset simulé · 1 019 leads · 2025
@@ -58,7 +58,7 @@ vroom-market-analytics/
 │   └── generate_charts.py         # 4 visualisations Python
 │
 ├── dashboards/
-│   ├── vroom_market_analytics_2025.xlsx   # Workbook complet (7 onglets)
+│   ├── v_market_analytics_2025.xlsx   # Workbook complet (7 onglets)
 │   ├── fig1_evolution_inbound_outbound.png
 │   ├── fig2_performance_par_source.png
 │   ├── fig3_funnel_comparatif.png
